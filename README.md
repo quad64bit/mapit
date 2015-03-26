@@ -22,7 +22,8 @@ Gotchas
 
 Screenshots
 -------------------------------------------------
-![Color Screenshot][images/color.png]
+
+![Color Screenshot][/images/color.png?raw=true "Color terminal Support"]
 
 Examples
 -------------------------------------------------
