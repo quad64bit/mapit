@@ -20,6 +20,10 @@ Gotchas
 - If there is no accessible path, the app will give up after a few tries. This is tricky to detect reliably, and might have false/early termination on really big maps.
 - Really big maps (>64) are pretty slow
 
+Screenshots
+-------------------------------------------------
+![Color Screenshot][images/color.png]
+
 Examples
 -------------------------------------------------
 
